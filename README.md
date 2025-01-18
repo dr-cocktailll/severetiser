@@ -1,8 +1,3 @@
-# severetiser - a severity prediction model for maritime deficiencies using a combination of structured data and unstructured text analysis
-Here's a clean and well-structured version of your content for a GitHub README:
-
----
-
 # Maritime Deficiency Severity Prediction Model
 
 This repository contains a machine learning-based approach to predict the severity levels of maritime deficiencies identified during inspections. The model integrates structured and unstructured data to assist inspectors in prioritizing high-risk issues.
